@@ -1,50 +1,69 @@
-## Your Name
+## Rashika Patel
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am currently a student at Makers Academy, one of the top rated developer bootcamps, hoping to start a new challenge in a rewarding career as a programmer.
+I have a degree in engineering and have under taken numerous roles, both technical and non-technical. 
+I am looking for a position where I can be of value, be able to create something meaningful, while utilising my strong logic skills and my passion for solving puzzles!
+
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Effective communicator from my customer facing roles with clients and within teams I have worked in.
+I've worked with a wide range of people, and have adapted to each situation as required. 
+In my role as a General Advisor, I further explored a client's issue and then explained complex information in a flexible manner and related it to a client's situatiom.
+I found in all the teams I worked in, good and efficient communication was key to being successful. 
 
-- Experience
-- Achievements
-- Evidence
+#### Adaptability
 
-#### Another Skill
+In my role as a Support Engineer, I was tasked with inputting complex engineering equations into a piece of software that was being developed. With no prior experience in computing, I quickly picked up the necessary skills to successfully complete this job.
+Again, in this role, due to a light workload at the time I was trusted to work on projects outside the department. This meant dealing with new people, working with different systems and understanding new concepts.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2018 to October 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. I have completed several CodeCademy courses and enrolled on MOOCs to further my learning.
+- Fast, independent learner.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- OOP, TDD
+- Ruby
+- RSpec
 
-#### Your University / College (start_date to end_date)
+#### Imperial College London (September 2006 to June 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Chemical Engineering MEng (Hons) 2:1
 
 #### Any other qualifications
+Basic Spanish
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**ABB Ltd** (March 2014 to May 2018)    
+*Support Engineer*  
+
+Provided support to team developing software for process engineers, which involved development of an Excel add-in, drafting help documentation, monitoring customer contracts and providing helpdesk support to global customers.
+Also worked as a technical scribe on HAZOP/LOPA study in oil & gas industry.
+
+**National Car Parks** (July 2013 to March 2014)   
+*Customer Response Advisor*  
+
+Provided high level of customer service via telephone. 
+Utilised a number of different systmens to operate car park equipment and access site information.
+Mentored and supported new staff to ensure the quality of service is maintained.
+
+**Citizens Advice Bureau** (April 2012 to January 2014)   
+*Gateway Assessor / General Advisor*  
+
+Interviewed clients to determine issue and assess their needs, risks and capabilities. 
+Evaluated issue and identify most appropriate course of action.
+Successfully completed training courses to progress into an Advisor role.
+
+**John Crane** (July 2008 to September 2008)   
+*Intern*  
+
+Devised novel solutions to seal corrosion problems in plants using a new type of water treatment.
+Carried out a detailed study of involved components, explored a number of different approaches before presenting my recommendations.
+
+
