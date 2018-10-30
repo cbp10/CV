@@ -1,8 +1,15 @@
-## Rashika Patel
+<h2 align="center">Rashika Patel</h2>
 
 I am currently a student at Makers Academy, one of the top rated developer bootcamps, hoping to start a new challenge in a rewarding career as a programmer.
 I have a degree in engineering and have under taken numerous roles, both technical and non-technical. 
 I am looking for a position where I can be of value, be able to create something meaningful, while utilising my strong logic skills and my passion for solving puzzles!
+
+
+## Projects
+
+| Project | Timeframe | Description | Language | Testing Framework |
+----------|-----------|-------------|----------|-------------------|
+
 
 
 ## Skills
