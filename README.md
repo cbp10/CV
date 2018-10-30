@@ -1,14 +1,26 @@
 <h2 align="center">Rashika Patel</h2>
 
-I am currently a student at Makers Academy, one of the top rated developer bootcamps, hoping to start a new challenge in a rewarding career as a programmer.
+<div align="center">
+
+[Projects](#projects) | 
+[Skills](#skills) | 
+[Education](#education) | 
+[Experience](#experience)
+</div>
+
+
+Recent graduate from Makers Academy, one of the top rated developer bootcamps, hoping to start a new challenge in a rewarding career as a software developer.
 I have a degree in engineering and have under taken numerous roles, both technical and non-technical. 
 I am looking for a position where I can be of value, be able to create something meaningful, while utilising my strong logic skills and my passion for solving puzzles!
 
 
 ## Projects
 
-| Project | Timeframe | Description | Language | Testing Framework |
+| Project | Timeframe | Description | Technologies | Testing Framework |
 ----------|-----------|-------------|----------|-------------------|
+| [Googley Eyes](https://github.com/LazySamir/googley-eyes) | 10 days | Final team project creating Google chrome extension to track web usage, with an emphasis on TDD and agile processes | Node.js, Javascript | Jasmine, Selenium, webdriverIO |
+| [Bank Tech Test](https://github.com/cbp10/bank_tech_test) | 2 days | Simple command line app created following TDD and Object Orientated Principles | Ruby | RSpec |
+| [MakersBnB](https://github.com/DaveLawes/MakersBnB) | 5 days | Group project creating AirBnB clone following agile principles | Node.js, Express, PostgreSQL | Jasmine, Zombie |
 
 
 
@@ -31,12 +43,13 @@ Again, in this role, due to a light workload at the time I was trusted to work o
 
 #### Makers Academy (July 2018 to October 2018)
 
-- Curious and passionate about code. I have completed several CodeCademy courses and enrolled on MOOCs to further my learning.
+- Curious and passionate about code. I have completed several Codecademy courses and enrolled on MOOCs to further my learning.
 - Fast, independent learner.
-
+- Agile processes
+- Pair programming
 - OOP, TDD
-- Ruby
-- RSpec
+- Ruby, Rails, Javascript, Node.js
+- RSpec, Capybara, Jasmine, Zombie
 
 #### Imperial College London (September 2006 to June 2010)
 
