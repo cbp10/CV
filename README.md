@@ -30,7 +30,7 @@ I am looking for a position where I can be of value, be able to create something
 
 Effective communicator from my customer facing roles with clients and within teams I have worked in.
 I've worked with a wide range of people, and have adapted to each situation as required. 
-In my role as a General Advisor, I further explored a client's issue and then explained complex information in a flexible manner and related it to a client's situatiom.
+In my role as a General Advisor, I further explored a client's issue and then explained complex information in a flexible manner and related it to a client's situation.
 I found in all the teams I worked in, good and efficient communication was key to being successful. 
 
 #### Adaptability
