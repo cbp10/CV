@@ -18,7 +18,7 @@ I am looking for a position where I can be of value, be able to create something
 
 | Project | Timeframe | Description | Technologies | Testing Framework |
 ----------|-----------|-------------|----------|-------------------|
-| [Googley Eyes](https://github.com/LazySamir/googley-eyes) | 10 days | Final team project creating Google chrome extension to track web usage, with an emphasis on TDD and agile processes | Node.js, Javascript | Jasmine, Selenium, webdriverIO |
+| [Googley Eyes](https://github.com/cbp10/googley-eyes) | 10 days | Final team project creating Google chrome extension to track web usage, with an emphasis on TDD and agile processes | Node.js, Javascript | Jasmine, Selenium, webdriverIO |
 | [Bank Tech Test](https://github.com/cbp10/bank_tech_test) | 2 days | Simple command line app created following TDD and Object Orientated Principles | Ruby | RSpec |
 | [MakersBnB](https://github.com/DaveLawes/MakersBnB) | 5 days | Group project creating AirBnB clone following agile principles | Node.js, Express, PostgreSQL | Jasmine, Zombie |
 
